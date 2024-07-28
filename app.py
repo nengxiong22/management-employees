@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    url = 'http://localhost:8000/employees'
+    # url = 'http://localhost:8000/employees'
+    url = 'https://1fe58e05-ec02-49f7-81e1-9f1188c25147-00-384m8amukmvtf.pike.replit.dev/employees'
     try:
         response = requests.get(url)
         response.raise_for_status()
