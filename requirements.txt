@@ -1,3 +1,5 @@
+Flask
+gunicorn
 blinker==1.7.0
 cachelib==0.10.2
 certifi==2024.2.2
@@ -42,4 +44,4 @@ SQLAlchemy==2.0.25
 typing_extensions==4.9.0
 urllib3==2.2.1
 Werkzeug==3.0.1
-wheel==0.43.0
+wheel==0.43.
