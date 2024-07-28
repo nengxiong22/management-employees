@@ -1,0 +1,12 @@
+:root {
+    --background-color: white;
+    --text-color: #ffffff;
+    --primary-color: #222;
+    --secondary-color: #555555;
+    --primary-button: #475aff;
+    --success-button: #0fc81c;
+    --danger-button: #ff2f00;
+    --view-button: rgb(0, 211, 0);
+    --edit-button: blue;
+    --delete-button: red;
+  }

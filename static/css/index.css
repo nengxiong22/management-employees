@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 2rem 0 2rem 0;
+}
+
+table th{
+    text-align: center;
+}
+
+table .action a{
+    text-decoration: none;
+}
+
+table .action #view_emp{
+    color: var(--view-button);
+    font-weight: bold;
+}
+
+table .action #edit_emp{
+    color: var(--edit-button);
+    font-weight: bold;
+}
+
+table .action #delete_emp{
+    color: var(--delete-button);
+    font-weight: bold;
+}
